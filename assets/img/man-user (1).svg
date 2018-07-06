@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.696 18.008">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a02d25;
+      }
+    </style>
+  </defs>
+  <g id="man-user_1_" data-name="man-user (1)" transform="translate(-41.895 0)">
+    <path id="Path_7" data-name="Path 7" class="cls-1" d="M108.161,8.807c2,0,3.625-1.972,3.625-4.4S111.253,0,108.161,0s-3.626,1.972-3.626,4.4S106.158,8.807,108.161,8.807Z" transform="translate(-59.417)"/>
+    <path id="Path_8" data-name="Path 8" class="cls-1" d="M41.9,300.448c0-.148,0-.042,0,0Z" transform="translate(0 -284.917)"/>
+    <path id="Path_9" data-name="Path 9" class="cls-1" d="M308.085,301.621c0-.041,0-.282,0,0Z" transform="translate(-252.494 -285.974)"/>
+    <path id="Path_10" data-name="Path 10" class="cls-1" d="M55.6,183.948c-.067-4.237-.62-5.444-4.855-6.208a2.974,2.974,0,0,1-3.97,0c-4.188.756-4.775,1.945-4.852,6.07-.006.337-.009.355-.01.315,0,.073,0,.209,0,.445,0,0,1.008,2.032,6.847,2.032s6.847-2.032,6.847-2.032c0-.152,0-.257,0-.329A2.729,2.729,0,0,1,55.6,183.948Z" transform="translate(-0.012 -168.595)"/>
+  </g>
+</svg>

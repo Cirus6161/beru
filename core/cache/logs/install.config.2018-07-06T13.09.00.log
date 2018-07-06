@@ -1,0 +1,1 @@
+[2018-07-06 13:09:00] (ERROR in xPDOConnection::connect @ C:\OSPanel\domains\beru\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)

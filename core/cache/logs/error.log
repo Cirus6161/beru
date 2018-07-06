@@ -1,0 +1,29 @@
+[2018-07-06 13:27:40] (ERROR @ C:\OSPanel\domains\beru\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
+[2018-07-06 14:37:34] (ERROR @ C:\OSPanel\domains\beru\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/clientconfig/default
+[2018-07-06 14:46:26] (ERROR @ C:\OSPanel\domains\beru\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/clientconfig/default
+[2018-07-06 14:49:00] (ERROR @ C:\OSPanel\domains\beru\core\xpdo\om\xpdoquery.class.php : 702) Error parsing condition with key 0: group
+[2018-07-06 14:49:00] (ERROR @ C:\OSPanel\domains\beru\core\xpdo\om\xpdoquery.class.php : 702) Error parsing condition with key 1: 1
+[2018-07-06 14:51:05] (ERROR @ C:\OSPanel\domains\beru\core\xpdo\om\xpdoquery.class.php : 702) Error parsing condition with key 0: group
+[2018-07-06 14:51:05] (ERROR @ C:\OSPanel\domains\beru\core\xpdo\om\xpdoquery.class.php : 702) Error parsing condition with key 1: 1
+[2018-07-06 15:05:15] (ERROR @ C:\OSPanel\domains\beru\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
+[2018-07-06 15:05:33] (ERROR @ C:\OSPanel\domains\beru\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
+[2018-07-06 15:06:13] (ERROR @ C:\OSPanel\domains\beru\core\model\modx\modcachemanager.class.php : 509) Error caching script elements/modplugin/1
+[2018-07-06 15:07:41] (ERROR @ C:\OSPanel\domains\beru\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
+[2018-07-06 15:28:02] (ERROR @ C:\OSPanel\domains\beru\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2018-07-06 15:46:54] (ERROR @ C:\OSPanel\domains\beru\core\xpdo\om\xpdoquery.class.php : 702) Error parsing condition with key 0: group
+[2018-07-06 15:46:54] (ERROR @ C:\OSPanel\domains\beru\core\xpdo\om\xpdoquery.class.php : 702) Error parsing condition with key 1: 1
+[2018-07-06 15:47:09] (ERROR @ C:\OSPanel\domains\beru\core\model\modx\modprocessor.class.php : 256) Processor failed creating output array due to JSON error 5
+[2018-07-06 15:47:11] (ERROR @ C:\OSPanel\domains\beru\core\model\modx\modprocessor.class.php : 256) Processor failed creating output array due to JSON error 5
+[2018-07-06 15:47:13] (ERROR @ C:\OSPanel\domains\beru\core\model\modx\modprocessor.class.php : 256) Processor failed creating output array due to JSON error 5
+[2018-07-06 15:49:26] (ERROR @ C:\OSPanel\domains\beru\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/clientconfig/default
+[2018-07-06 15:51:36] (ERROR @ C:\OSPanel\domains\beru\core\xpdo\om\xpdoquery.class.php : 702) Error parsing condition with key 0: group
+[2018-07-06 15:51:36] (ERROR @ C:\OSPanel\domains\beru\core\xpdo\om\xpdoquery.class.php : 702) Error parsing condition with key 1: 1
+[2018-07-06 15:52:08] (ERROR @ C:\OSPanel\domains\beru\core\model\modx\modcachemanager.class.php : 394) Error caching action map mgr/actions
+[2018-07-06 15:55:43] (ERROR @ C:\OSPanel\domains\beru\core\xpdo\om\xpdoquery.class.php : 702) Error parsing condition with key 0: group
+[2018-07-06 15:55:44] (ERROR @ C:\OSPanel\domains\beru\core\xpdo\om\xpdoquery.class.php : 702) Error parsing condition with key 1: 2
+[2018-07-06 15:56:13] (ERROR @ C:\OSPanel\domains\beru\core\xpdo\om\xpdoquery.class.php : 702) Error parsing condition with key 0: group
+[2018-07-06 15:56:13] (ERROR @ C:\OSPanel\domains\beru\core\xpdo\om\xpdoquery.class.php : 702) Error parsing condition with key 1: 2
+[2018-07-06 15:58:51] (ERROR @ C:\OSPanel\domains\beru\core\xpdo\om\xpdoquery.class.php : 702) Error parsing condition with key 0: group
+[2018-07-06 15:58:51] (ERROR @ C:\OSPanel\domains\beru\core\xpdo\om\xpdoquery.class.php : 702) Error parsing condition with key 1: 2
+[2018-07-06 15:59:59] (ERROR @ C:\OSPanel\domains\beru\core\xpdo\om\xpdoquery.class.php : 702) Error parsing condition with key 0: group
+[2018-07-06 15:59:59] (ERROR @ C:\OSPanel\domains\beru\core\xpdo\om\xpdoquery.class.php : 702) Error parsing condition with key 1: 2
