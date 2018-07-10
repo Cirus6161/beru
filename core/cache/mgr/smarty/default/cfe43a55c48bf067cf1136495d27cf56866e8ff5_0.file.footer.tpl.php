@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.31, created on 2018-07-06 13:11:22
+/* Smarty version 3.1.31, created on 2018-07-10 13:31:51
   from "C:\OSPanel\domains\beru\manager\templates\default\footer.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_5b3f404a1eb8b8_72069449',
+  'unifunc' => 'content_5b448b17bc0d64_01386876',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5b3f404a1eb8b8_72069449 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5b448b17bc0d64_01386876 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
     </div>
     <!-- #modx-content-->

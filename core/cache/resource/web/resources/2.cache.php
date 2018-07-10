@@ -197,115 +197,115 @@
 <div id="my-content">
 <!--main-content-->
      <main>
-        <!--BRANDS-->
+         <!--BRANDS-->
         <div class="container relative_container">
-            <div class="brands">
-                <div class="row brands-row">
-                    <div class="col brands-flex-col">
-                        <div class="brands-logo-items">
-                            <div class="brands-wrapper">
-                                <a href="brand-index.html">
-                                    <div class="brands-logo-item">
-                                        <div class="logo-brackets-left"></div>
-                                        <img src="assets/img/Image%204_brend.jpg">
-                                        <div class="logo-brackets-right"></div>
-                                    </div>
-                                </a>
-                                <a href="brand-index.html">
-                                    <div class="brands-logo-item">
-                                        <div class="logo-brackets-left"></div>
-                                        <img src="assets/img/Image%204_brend.jpg">
-                                        <div class="logo-brackets-right"></div>
-                                    </div>
-                                </a>
-                                <a href="brand-index.html">
-                                    <div class="brands-logo-item">
-                                        <div class="logo-brackets-left"></div>
-                                        <img src="assets/img/Image%204_brend.jpg">
-                                        <div class="logo-brackets-right"></div>
-                                    </div>
-                                </a>
-                                <a href="brand-index.html">
-                                    <div class="brands-logo-item">
-                                        <div class="logo-brackets-left"></div>
-                                        <img src="assets/img/Image%204_brend.jpg">
-                                        <div class="logo-brackets-right"></div>
-                                    </div>
-                                </a>
-                                <a href="brand-index.html">
-                                    <div class="brands-logo-item">
-                                        <div class="logo-brackets-left"></div>
-                                        <img src="assets/img/Image%204_brend.jpg">
-                                        <div class="logo-brackets-right"></div>
-                                    </div>
-                                </a>
-                                <a href="brand-index.html">
-                                    <div class="brands-logo-item">
-                                        <div class="logo-brackets-left"></div>
-                                        <img src="assets/img/Image%204_brend.jpg">
-                                        <div class="logo-brackets-right"></div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="brands-adaptive-slider">
-                                <a href="brand-index.html">
-                                    <div class="brands-logo-item">
-                                        <div class="logo-brackets-left"></div>
-                                        <img src="assets/img/Image%204_brend.jpg">
-                                        <div class="logo-brackets-right"></div>
-                                    </div>
-                                </a>
-                                <a href="brand-index.html">
-                                    <div class="brands-logo-item">
-                                        <div class="logo-brackets-left"></div>
-                                        <img src="assets/img/Image%204_brend.jpg">
-                                        <div class="logo-brackets-right"></div>
-                                    </div>
-                                </a>
-                                <a href="brand-index.html">
-                                    <div class="brands-logo-item">
-                                        <div class="logo-brackets-left"></div>
-                                        <img src="assets/img/Image%204_brend.jpg">
-                                        <div class="logo-brackets-right"></div>
-                                    </div>
-                                </a>
-                                <a href="brand-index.html">
-                                    <div class="brands-logo-item">
-                                        <div class="logo-brackets-left"></div>
-                                        <img src="assets/img/Image%204_brend.jpg">
-                                        <div class="logo-brackets-right"></div>
-                                    </div>
-                                </a>
-                                <a href="brand-index.html">
-                                    <div class="brands-logo-item">
-                                        <div class="logo-brackets-left"></div>
-                                        <img src="assets/img/Image%204_brend.jpg">
-                                        <div class="logo-brackets-right"></div>
-                                    </div>
-                                </a>
-                                <a href="brand-index.html">
-                                    <div class="brands-logo-item">
-                                        <div class="logo-brackets-left"></div>
-                                        <img src="assets/img/Image%204_brend.jpg">
-                                        <div class="logo-brackets-right"></div>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
+                <div class="brands">
+                   <div class="row brands-row">
+                       <div class="col brands-flex-col">
+                           <div class="brands-logo-items">
+                               <div class="brands-wrapper">
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                                   <a href="brand-index.html">
+                                   <div class="brands-logo-item">
+                                       <div class="logo-brackets-left"></div>
+                                       <img src="assets/img/Image%204_brend.jpg">
+                                       <div class="logo-brackets-right"></div>
+                                   </div>
+                               </a>
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                                   <a href="brand-index.html">
+                                   <div class="brands-logo-item">
+                                       <div class="logo-brackets-left"></div>
+                                       <img src="assets/img/Image%204_brend.jpg">
+                                       <div class="logo-brackets-right"></div>
+                                   </div>
+                               </a>
+                                   <a href="brand-index.html">
+                                   <div class="brands-logo-item">
+                                       <div class="logo-brackets-left"></div>
+                                       <img src="assets/img/Image%204_brend.jpg">
+                                       <div class="logo-brackets-right"></div>
+                                   </div>
+                               </a>
+                               </div>
+                               <div class="brands-adaptive-slider">
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                               </div>
+                           </div>
 
-                        <div class="brand-block-text">
-                            Торговый Дом «БЕРУ» является эксклюзивным представителем торговой марки «Nova Bright» в
-                            России и странах СНГ. В США бренд «Nova Bright» известная и уважаемая торговая марка.
-                            Те, кто выбрал «Nova Bright» уверены, что автомобиль это отражение внутреннего мира,
-                            привычек и индивидуальности владельца. И они не ошибаются. В 2002 г. бренд «Nova Bright»
-                            вышел на Российский рынок.  Торговый Дом «Беру» предлагает вам полный ассортимент продукции
-                            «Nova Bright», а так же  всегда в наличии самый широкий спектр аксессуаров и сопутствующих
-                            товаров «Li-Sa», «IROKA», автомобильный инструмент «KingRoy».
-                        </div>
-                    </div>
+                           <div class="brand-block-text">
+                               Торговый Дом «БЕРУ» является эксклюзивным представителем торговой марки «Nova Bright» в
+                               России и странах СНГ. В США бренд «Nova Bright» известная и уважаемая торговая марка.
+                               Те, кто выбрал «Nova Bright» уверены, что автомобиль это отражение внутреннего мира,
+                               привычек и индивидуальности владельца. И они не ошибаются. В 2002 г. бренд «Nova Bright»
+                               вышел на Российский рынок.  Торговый Дом «Беру» предлагает вам полный ассортимент продукции
+                               «Nova Bright», а так же  всегда в наличии самый широкий спектр аксессуаров и сопутствующих
+                               товаров «Li-Sa», «IROKA», автомобильный инструмент «KingRoy».
+                           </div>
+                       </div>
+                   </div>
                 </div>
             </div>
-        </div>
 
         <!--!BRANDS-->
 
@@ -339,42 +339,42 @@
                         <div class="sub-nav">
                             <div class="news-cat">
                                 <div class="news-cat-flex">
-                                    <ul class="sub-menu-items">
-                                        <a href="product.html" class="sub-menu-item"><li>Аксессуары "AUTOBAN" (Ю.Корея)</li></a>
-                                        <a href="" class="sub-menu-item"><li>Брелоки</li></a>
-                                        <a href="" class="sub-menu-item"><li>Ведра, канистры</li></a>
-                                        <a href="" class="sub-menu-item"><li>Вешалки</li></a>
-                                        <a href="" class="sub-menu-item"><li>Держатели мобильных телефонов, очков и т.п.</li></a>
-                                        <a href="" class="sub-menu-item"><li>Зеркала</li></a>
-                                        <a href="" class="sub-menu-item"><li>Знаки аварийной остановки</li></a>
-                                        <a href="" class="sub-menu-item"><li>Коврики на панель приборов</li></a>
-                                        <a href="" class="sub-menu-item"><li>Коврики напольные</li></a>
-                                        <a href="" class="sub-menu-item"><li>Крышки бензобака</li></a>
-                                        <a href="" class="sub-menu-item"><li>Молдинги бампера</li></a>
-                                        <a href="" class="sub-menu-item"><li>Накладки декоративные</li></a>
-                                        <a href="" class="sub-menu-item"><li>Накладки на педали</li></a>
-                                        <a href="" class="sub-menu-item"><li>Наклейки автомобильные</li></a>
-                                        <a href="" class="sub-menu-item"><li>Насадки на глушитель</li></a>
-                                        <a href="" class="sub-menu-item"><li>Оплетки руля</li></a>
-                                    </ul>
-                                    <ul class="sub-menu-items">
-                                        <a href="" class="sub-menu-item"><li>Принадлежности для перевозки груза</li></a>
-                                        <a href="" class="sub-menu-item"><li>Рамки для номерного знака</li></a>
-                                        <a href="" class="sub-menu-item"><li>Ручки на КПП, накладки</li></a>
-                                        <a href="" class="sub-menu-item"><li>Вешалки</li></a>
-                                        <a href="" class="sub-menu-item"><li>Держатели мобильных телефонов, очков и т.п.</li></a>
-                                        <a href="" class="sub-menu-item"><li>Зеркала</li></a>
-                                        <a href="" class="sub-menu-item"><li>Знаки аварийной остановки</li></a>
-                                        <a href="" class="sub-menu-item"><li>Коврики на панель приборов</li></a>
-                                        <a href="" class="sub-menu-item"><li>Коврики напольные</li></a>
-                                        <a href="" class="sub-menu-item"><li>Крышки бензобака</li></a>
-                                        <a href="" class="sub-menu-item"><li>Молдинги бампера</li></a>
-                                        <a href="" class="sub-menu-item"><li>Накладки декоративные</li></a>
-                                        <a href="" class="sub-menu-item"><li>Накладки на педали</li></a>
-                                        <a href="" class="sub-menu-item"><li>Наклейки автомобильные</li></a>
-                                        <a href="" class="sub-menu-item"><li>Насадки на глушитель</li></a>
-                                        <a href="" class="sub-menu-item"><li>Оплетки руля</li></a>
-                                    </ul>
+                                <ul class="sub-menu-items">
+                                    <a href="product.html" class="sub-menu-item"><li>Аксессуары "AUTOBAN" (Ю.Корея)</li></a>
+                                    <a href="" class="sub-menu-item"><li>Брелоки</li></a>
+                                    <a href="" class="sub-menu-item"><li>Ведра, канистры</li></a>
+                                    <a href="" class="sub-menu-item"><li>Вешалки</li></a>
+                                    <a href="" class="sub-menu-item"><li>Держатели мобильных телефонов, очков и т.п.</li></a>
+                                    <a href="" class="sub-menu-item"><li>Зеркала</li></a>
+                                    <a href="" class="sub-menu-item"><li>Знаки аварийной остановки</li></a>
+                                    <a href="" class="sub-menu-item"><li>Коврики на панель приборов</li></a>
+                                    <a href="" class="sub-menu-item"><li>Коврики напольные</li></a>
+                                    <a href="" class="sub-menu-item"><li>Крышки бензобака</li></a>
+                                    <a href="" class="sub-menu-item"><li>Молдинги бампера</li></a>
+                                    <a href="" class="sub-menu-item"><li>Накладки декоративные</li></a>
+                                    <a href="" class="sub-menu-item"><li>Накладки на педали</li></a>
+                                    <a href="" class="sub-menu-item"><li>Наклейки автомобильные</li></a>
+                                    <a href="" class="sub-menu-item"><li>Насадки на глушитель</li></a>
+                                    <a href="" class="sub-menu-item"><li>Оплетки руля</li></a>
+                                </ul>
+                                <ul class="sub-menu-items">
+                                    <a href="" class="sub-menu-item"><li>Принадлежности для перевозки груза</li></a>
+                                    <a href="" class="sub-menu-item"><li>Рамки для номерного знака</li></a>
+                                    <a href="" class="sub-menu-item"><li>Ручки на КПП, накладки</li></a>
+                                    <a href="" class="sub-menu-item"><li>Вешалки</li></a>
+                                    <a href="" class="sub-menu-item"><li>Держатели мобильных телефонов, очков и т.п.</li></a>
+                                    <a href="" class="sub-menu-item"><li>Зеркала</li></a>
+                                    <a href="" class="sub-menu-item"><li>Знаки аварийной остановки</li></a>
+                                    <a href="" class="sub-menu-item"><li>Коврики на панель приборов</li></a>
+                                    <a href="" class="sub-menu-item"><li>Коврики напольные</li></a>
+                                    <a href="" class="sub-menu-item"><li>Крышки бензобака</li></a>
+                                    <a href="" class="sub-menu-item"><li>Молдинги бампера</li></a>
+                                    <a href="" class="sub-menu-item"><li>Накладки декоративные</li></a>
+                                    <a href="" class="sub-menu-item"><li>Накладки на педали</li></a>
+                                    <a href="" class="sub-menu-item"><li>Наклейки автомобильные</li></a>
+                                    <a href="" class="sub-menu-item"><li>Насадки на глушитель</li></a>
+                                    <a href="" class="sub-menu-item"><li>Оплетки руля</li></a>
+                                </ul>
                                 </div>
 
                             </div>
@@ -841,6 +841,187 @@
         <!--/header-->
     </div>
     <!--/header-->',
+    '[[$brands-menu]]' => '<div class="container relative_container">
+                <div class="brands">
+                   <div class="row brands-row">
+                       <div class="col brands-flex-col">
+                           <div class="brands-logo-items">
+                               <div class="brands-wrapper">
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                                   <a href="brand-index.html">
+                                   <div class="brands-logo-item">
+                                       <div class="logo-brackets-left"></div>
+                                       <img src="assets/img/Image%204_brend.jpg">
+                                       <div class="logo-brackets-right"></div>
+                                   </div>
+                               </a>
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                                   <a href="brand-index.html">
+                                   <div class="brands-logo-item">
+                                       <div class="logo-brackets-left"></div>
+                                       <img src="assets/img/Image%204_brend.jpg">
+                                       <div class="logo-brackets-right"></div>
+                                   </div>
+                               </a>
+                                   <a href="brand-index.html">
+                                   <div class="brands-logo-item">
+                                       <div class="logo-brackets-left"></div>
+                                       <img src="assets/img/Image%204_brend.jpg">
+                                       <div class="logo-brackets-right"></div>
+                                   </div>
+                               </a>
+                               </div>
+                               <div class="brands-adaptive-slider">
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                               </div>
+                           </div>
+
+                           <div class="brand-block-text">
+                               Торговый Дом «БЕРУ» является эксклюзивным представителем торговой марки «Nova Bright» в
+                               России и странах СНГ. В США бренд «Nova Bright» известная и уважаемая торговая марка.
+                               Те, кто выбрал «Nova Bright» уверены, что автомобиль это отражение внутреннего мира,
+                               привычек и индивидуальности владельца. И они не ошибаются. В 2002 г. бренд «Nova Bright»
+                               вышел на Российский рынок.  Торговый Дом «Беру» предлагает вам полный ассортимент продукции
+                               «Nova Bright», а так же  всегда в наличии самый широкий спектр аксессуаров и сопутствующих
+                               товаров «Li-Sa», «IROKA», автомобильный инструмент «KingRoy».
+                           </div>
+                       </div>
+                   </div>
+                </div>
+            </div>',
+    '[[$catalog-menu]]' => '<div class="container relative_container">
+            <div class="catalog-div">
+                <div class="row">
+                    <div class="col">
+                        <nav>
+                            <ul class="sub-nav-menu">
+                                <a href="" id="news-cat"><li>Новинки <span>></span></li></a>
+                                <a href=""><li>Хиты продаж <span>></span></li></a>
+                                <a href=""><li>Сезонные предложения <span>></span></li></a>
+                                <a href=""><li>Аксессуары автомобильные <span>></span></li></a>
+                                <a href=""><li>Ароматизаторы <span>></span></li></a>
+                                <a href=""><li>Автотовары «Yasha» <span>></span></li></a>
+                                <a href=""><li>Инструмент <span>></span></li></a>
+                                <a href=""><li>Ксенон <span>></span></li></a>
+                                <a href=""><li>Принадлежности для шиномонтажа <span>></span></li></a>
+                                <a href=""><li>Свет автомобильный <span>></span></li></a>
+                                <a href=""><li>Световое оборудование <span>></span></li></a>
+                                <a href=""><li>Товары для ухода за автомобилем <span>></span></li></a>
+                                <a href=""><li>Хомуты, изолента, крепеж, скотч <span>></span></li></a>
+                                <a href=""><li>Щетки стеклоочистителя <span>></span></li></a>
+                                <a href=""><li>Электроника и авто - электротехника  <span>></span></li></a>
+
+                            </ul>
+                        </nav>
+                    </div>
+                    <div class="col sub-nav-odd-col">
+                        <div class="sub-nav">
+                            <div class="news-cat">
+                                <div class="news-cat-flex">
+                                <ul class="sub-menu-items">
+                                    <a href="product.html" class="sub-menu-item"><li>Аксессуары "AUTOBAN" (Ю.Корея)</li></a>
+                                    <a href="" class="sub-menu-item"><li>Брелоки</li></a>
+                                    <a href="" class="sub-menu-item"><li>Ведра, канистры</li></a>
+                                    <a href="" class="sub-menu-item"><li>Вешалки</li></a>
+                                    <a href="" class="sub-menu-item"><li>Держатели мобильных телефонов, очков и т.п.</li></a>
+                                    <a href="" class="sub-menu-item"><li>Зеркала</li></a>
+                                    <a href="" class="sub-menu-item"><li>Знаки аварийной остановки</li></a>
+                                    <a href="" class="sub-menu-item"><li>Коврики на панель приборов</li></a>
+                                    <a href="" class="sub-menu-item"><li>Коврики напольные</li></a>
+                                    <a href="" class="sub-menu-item"><li>Крышки бензобака</li></a>
+                                    <a href="" class="sub-menu-item"><li>Молдинги бампера</li></a>
+                                    <a href="" class="sub-menu-item"><li>Накладки декоративные</li></a>
+                                    <a href="" class="sub-menu-item"><li>Накладки на педали</li></a>
+                                    <a href="" class="sub-menu-item"><li>Наклейки автомобильные</li></a>
+                                    <a href="" class="sub-menu-item"><li>Насадки на глушитель</li></a>
+                                    <a href="" class="sub-menu-item"><li>Оплетки руля</li></a>
+                                </ul>
+                                <ul class="sub-menu-items">
+                                    <a href="" class="sub-menu-item"><li>Принадлежности для перевозки груза</li></a>
+                                    <a href="" class="sub-menu-item"><li>Рамки для номерного знака</li></a>
+                                    <a href="" class="sub-menu-item"><li>Ручки на КПП, накладки</li></a>
+                                    <a href="" class="sub-menu-item"><li>Вешалки</li></a>
+                                    <a href="" class="sub-menu-item"><li>Держатели мобильных телефонов, очков и т.п.</li></a>
+                                    <a href="" class="sub-menu-item"><li>Зеркала</li></a>
+                                    <a href="" class="sub-menu-item"><li>Знаки аварийной остановки</li></a>
+                                    <a href="" class="sub-menu-item"><li>Коврики на панель приборов</li></a>
+                                    <a href="" class="sub-menu-item"><li>Коврики напольные</li></a>
+                                    <a href="" class="sub-menu-item"><li>Крышки бензобака</li></a>
+                                    <a href="" class="sub-menu-item"><li>Молдинги бампера</li></a>
+                                    <a href="" class="sub-menu-item"><li>Накладки декоративные</li></a>
+                                    <a href="" class="sub-menu-item"><li>Накладки на педали</li></a>
+                                    <a href="" class="sub-menu-item"><li>Наклейки автомобильные</li></a>
+                                    <a href="" class="sub-menu-item"><li>Насадки на глушитель</li></a>
+                                    <a href="" class="sub-menu-item"><li>Оплетки руля</li></a>
+                                </ul>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>',
     '[[$footer]]' => '<!--footer-->
     <div id="my-footer">
         <!--footer-->
@@ -1265,6 +1446,416 @@
         <!--/header-->
     </div>
     <!--/header-->',
+        ),
+        'policies' => 
+        array (
+        ),
+        'source' => 
+        array (
+        ),
+      ),
+      'brands-menu' => 
+      array (
+        'fields' => 
+        array (
+          'id' => 5,
+          'source' => 0,
+          'property_preprocess' => false,
+          'name' => 'brands-menu',
+          'description' => '',
+          'editor_type' => 0,
+          'category' => 6,
+          'cache_type' => 0,
+          'snippet' => '<div class="container relative_container">
+                <div class="brands">
+                   <div class="row brands-row">
+                       <div class="col brands-flex-col">
+                           <div class="brands-logo-items">
+                               <div class="brands-wrapper">
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                                   <a href="brand-index.html">
+                                   <div class="brands-logo-item">
+                                       <div class="logo-brackets-left"></div>
+                                       <img src="assets/img/Image%204_brend.jpg">
+                                       <div class="logo-brackets-right"></div>
+                                   </div>
+                               </a>
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                                   <a href="brand-index.html">
+                                   <div class="brands-logo-item">
+                                       <div class="logo-brackets-left"></div>
+                                       <img src="assets/img/Image%204_brend.jpg">
+                                       <div class="logo-brackets-right"></div>
+                                   </div>
+                               </a>
+                                   <a href="brand-index.html">
+                                   <div class="brands-logo-item">
+                                       <div class="logo-brackets-left"></div>
+                                       <img src="assets/img/Image%204_brend.jpg">
+                                       <div class="logo-brackets-right"></div>
+                                   </div>
+                               </a>
+                               </div>
+                               <div class="brands-adaptive-slider">
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                               </div>
+                           </div>
+
+                           <div class="brand-block-text">
+                               Торговый Дом «БЕРУ» является эксклюзивным представителем торговой марки «Nova Bright» в
+                               России и странах СНГ. В США бренд «Nova Bright» известная и уважаемая торговая марка.
+                               Те, кто выбрал «Nova Bright» уверены, что автомобиль это отражение внутреннего мира,
+                               привычек и индивидуальности владельца. И они не ошибаются. В 2002 г. бренд «Nova Bright»
+                               вышел на Российский рынок.  Торговый Дом «Беру» предлагает вам полный ассортимент продукции
+                               «Nova Bright», а так же  всегда в наличии самый широкий спектр аксессуаров и сопутствующих
+                               товаров «Li-Sa», «IROKA», автомобильный инструмент «KingRoy».
+                           </div>
+                       </div>
+                   </div>
+                </div>
+            </div>',
+          'locked' => false,
+          'properties' => NULL,
+          'static' => false,
+          'static_file' => '',
+          'content' => '<div class="container relative_container">
+                <div class="brands">
+                   <div class="row brands-row">
+                       <div class="col brands-flex-col">
+                           <div class="brands-logo-items">
+                               <div class="brands-wrapper">
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                                   <a href="brand-index.html">
+                                   <div class="brands-logo-item">
+                                       <div class="logo-brackets-left"></div>
+                                       <img src="assets/img/Image%204_brend.jpg">
+                                       <div class="logo-brackets-right"></div>
+                                   </div>
+                               </a>
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                                   <a href="brand-index.html">
+                                   <div class="brands-logo-item">
+                                       <div class="logo-brackets-left"></div>
+                                       <img src="assets/img/Image%204_brend.jpg">
+                                       <div class="logo-brackets-right"></div>
+                                   </div>
+                               </a>
+                                   <a href="brand-index.html">
+                                   <div class="brands-logo-item">
+                                       <div class="logo-brackets-left"></div>
+                                       <img src="assets/img/Image%204_brend.jpg">
+                                       <div class="logo-brackets-right"></div>
+                                   </div>
+                               </a>
+                               </div>
+                               <div class="brands-adaptive-slider">
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                                   <a href="brand-index.html">
+                                       <div class="brands-logo-item">
+                                           <div class="logo-brackets-left"></div>
+                                           <img src="assets/img/Image%204_brend.jpg">
+                                           <div class="logo-brackets-right"></div>
+                                       </div>
+                                   </a>
+                               </div>
+                           </div>
+
+                           <div class="brand-block-text">
+                               Торговый Дом «БЕРУ» является эксклюзивным представителем торговой марки «Nova Bright» в
+                               России и странах СНГ. В США бренд «Nova Bright» известная и уважаемая торговая марка.
+                               Те, кто выбрал «Nova Bright» уверены, что автомобиль это отражение внутреннего мира,
+                               привычек и индивидуальности владельца. И они не ошибаются. В 2002 г. бренд «Nova Bright»
+                               вышел на Российский рынок.  Торговый Дом «Беру» предлагает вам полный ассортимент продукции
+                               «Nova Bright», а так же  всегда в наличии самый широкий спектр аксессуаров и сопутствующих
+                               товаров «Li-Sa», «IROKA», автомобильный инструмент «KingRoy».
+                           </div>
+                       </div>
+                   </div>
+                </div>
+            </div>',
+        ),
+        'policies' => 
+        array (
+        ),
+        'source' => 
+        array (
+        ),
+      ),
+      'catalog-menu' => 
+      array (
+        'fields' => 
+        array (
+          'id' => 6,
+          'source' => 0,
+          'property_preprocess' => false,
+          'name' => 'catalog-menu',
+          'description' => '',
+          'editor_type' => 0,
+          'category' => 6,
+          'cache_type' => 0,
+          'snippet' => '<div class="container relative_container">
+            <div class="catalog-div">
+                <div class="row">
+                    <div class="col">
+                        <nav>
+                            <ul class="sub-nav-menu">
+                                <a href="" id="news-cat"><li>Новинки <span>></span></li></a>
+                                <a href=""><li>Хиты продаж <span>></span></li></a>
+                                <a href=""><li>Сезонные предложения <span>></span></li></a>
+                                <a href=""><li>Аксессуары автомобильные <span>></span></li></a>
+                                <a href=""><li>Ароматизаторы <span>></span></li></a>
+                                <a href=""><li>Автотовары «Yasha» <span>></span></li></a>
+                                <a href=""><li>Инструмент <span>></span></li></a>
+                                <a href=""><li>Ксенон <span>></span></li></a>
+                                <a href=""><li>Принадлежности для шиномонтажа <span>></span></li></a>
+                                <a href=""><li>Свет автомобильный <span>></span></li></a>
+                                <a href=""><li>Световое оборудование <span>></span></li></a>
+                                <a href=""><li>Товары для ухода за автомобилем <span>></span></li></a>
+                                <a href=""><li>Хомуты, изолента, крепеж, скотч <span>></span></li></a>
+                                <a href=""><li>Щетки стеклоочистителя <span>></span></li></a>
+                                <a href=""><li>Электроника и авто - электротехника  <span>></span></li></a>
+
+                            </ul>
+                        </nav>
+                    </div>
+                    <div class="col sub-nav-odd-col">
+                        <div class="sub-nav">
+                            <div class="news-cat">
+                                <div class="news-cat-flex">
+                                <ul class="sub-menu-items">
+                                    <a href="product.html" class="sub-menu-item"><li>Аксессуары "AUTOBAN" (Ю.Корея)</li></a>
+                                    <a href="" class="sub-menu-item"><li>Брелоки</li></a>
+                                    <a href="" class="sub-menu-item"><li>Ведра, канистры</li></a>
+                                    <a href="" class="sub-menu-item"><li>Вешалки</li></a>
+                                    <a href="" class="sub-menu-item"><li>Держатели мобильных телефонов, очков и т.п.</li></a>
+                                    <a href="" class="sub-menu-item"><li>Зеркала</li></a>
+                                    <a href="" class="sub-menu-item"><li>Знаки аварийной остановки</li></a>
+                                    <a href="" class="sub-menu-item"><li>Коврики на панель приборов</li></a>
+                                    <a href="" class="sub-menu-item"><li>Коврики напольные</li></a>
+                                    <a href="" class="sub-menu-item"><li>Крышки бензобака</li></a>
+                                    <a href="" class="sub-menu-item"><li>Молдинги бампера</li></a>
+                                    <a href="" class="sub-menu-item"><li>Накладки декоративные</li></a>
+                                    <a href="" class="sub-menu-item"><li>Накладки на педали</li></a>
+                                    <a href="" class="sub-menu-item"><li>Наклейки автомобильные</li></a>
+                                    <a href="" class="sub-menu-item"><li>Насадки на глушитель</li></a>
+                                    <a href="" class="sub-menu-item"><li>Оплетки руля</li></a>
+                                </ul>
+                                <ul class="sub-menu-items">
+                                    <a href="" class="sub-menu-item"><li>Принадлежности для перевозки груза</li></a>
+                                    <a href="" class="sub-menu-item"><li>Рамки для номерного знака</li></a>
+                                    <a href="" class="sub-menu-item"><li>Ручки на КПП, накладки</li></a>
+                                    <a href="" class="sub-menu-item"><li>Вешалки</li></a>
+                                    <a href="" class="sub-menu-item"><li>Держатели мобильных телефонов, очков и т.п.</li></a>
+                                    <a href="" class="sub-menu-item"><li>Зеркала</li></a>
+                                    <a href="" class="sub-menu-item"><li>Знаки аварийной остановки</li></a>
+                                    <a href="" class="sub-menu-item"><li>Коврики на панель приборов</li></a>
+                                    <a href="" class="sub-menu-item"><li>Коврики напольные</li></a>
+                                    <a href="" class="sub-menu-item"><li>Крышки бензобака</li></a>
+                                    <a href="" class="sub-menu-item"><li>Молдинги бампера</li></a>
+                                    <a href="" class="sub-menu-item"><li>Накладки декоративные</li></a>
+                                    <a href="" class="sub-menu-item"><li>Накладки на педали</li></a>
+                                    <a href="" class="sub-menu-item"><li>Наклейки автомобильные</li></a>
+                                    <a href="" class="sub-menu-item"><li>Насадки на глушитель</li></a>
+                                    <a href="" class="sub-menu-item"><li>Оплетки руля</li></a>
+                                </ul>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>',
+          'locked' => false,
+          'properties' => NULL,
+          'static' => false,
+          'static_file' => '',
+          'content' => '<div class="container relative_container">
+            <div class="catalog-div">
+                <div class="row">
+                    <div class="col">
+                        <nav>
+                            <ul class="sub-nav-menu">
+                                <a href="" id="news-cat"><li>Новинки <span>></span></li></a>
+                                <a href=""><li>Хиты продаж <span>></span></li></a>
+                                <a href=""><li>Сезонные предложения <span>></span></li></a>
+                                <a href=""><li>Аксессуары автомобильные <span>></span></li></a>
+                                <a href=""><li>Ароматизаторы <span>></span></li></a>
+                                <a href=""><li>Автотовары «Yasha» <span>></span></li></a>
+                                <a href=""><li>Инструмент <span>></span></li></a>
+                                <a href=""><li>Ксенон <span>></span></li></a>
+                                <a href=""><li>Принадлежности для шиномонтажа <span>></span></li></a>
+                                <a href=""><li>Свет автомобильный <span>></span></li></a>
+                                <a href=""><li>Световое оборудование <span>></span></li></a>
+                                <a href=""><li>Товары для ухода за автомобилем <span>></span></li></a>
+                                <a href=""><li>Хомуты, изолента, крепеж, скотч <span>></span></li></a>
+                                <a href=""><li>Щетки стеклоочистителя <span>></span></li></a>
+                                <a href=""><li>Электроника и авто - электротехника  <span>></span></li></a>
+
+                            </ul>
+                        </nav>
+                    </div>
+                    <div class="col sub-nav-odd-col">
+                        <div class="sub-nav">
+                            <div class="news-cat">
+                                <div class="news-cat-flex">
+                                <ul class="sub-menu-items">
+                                    <a href="product.html" class="sub-menu-item"><li>Аксессуары "AUTOBAN" (Ю.Корея)</li></a>
+                                    <a href="" class="sub-menu-item"><li>Брелоки</li></a>
+                                    <a href="" class="sub-menu-item"><li>Ведра, канистры</li></a>
+                                    <a href="" class="sub-menu-item"><li>Вешалки</li></a>
+                                    <a href="" class="sub-menu-item"><li>Держатели мобильных телефонов, очков и т.п.</li></a>
+                                    <a href="" class="sub-menu-item"><li>Зеркала</li></a>
+                                    <a href="" class="sub-menu-item"><li>Знаки аварийной остановки</li></a>
+                                    <a href="" class="sub-menu-item"><li>Коврики на панель приборов</li></a>
+                                    <a href="" class="sub-menu-item"><li>Коврики напольные</li></a>
+                                    <a href="" class="sub-menu-item"><li>Крышки бензобака</li></a>
+                                    <a href="" class="sub-menu-item"><li>Молдинги бампера</li></a>
+                                    <a href="" class="sub-menu-item"><li>Накладки декоративные</li></a>
+                                    <a href="" class="sub-menu-item"><li>Накладки на педали</li></a>
+                                    <a href="" class="sub-menu-item"><li>Наклейки автомобильные</li></a>
+                                    <a href="" class="sub-menu-item"><li>Насадки на глушитель</li></a>
+                                    <a href="" class="sub-menu-item"><li>Оплетки руля</li></a>
+                                </ul>
+                                <ul class="sub-menu-items">
+                                    <a href="" class="sub-menu-item"><li>Принадлежности для перевозки груза</li></a>
+                                    <a href="" class="sub-menu-item"><li>Рамки для номерного знака</li></a>
+                                    <a href="" class="sub-menu-item"><li>Ручки на КПП, накладки</li></a>
+                                    <a href="" class="sub-menu-item"><li>Вешалки</li></a>
+                                    <a href="" class="sub-menu-item"><li>Держатели мобильных телефонов, очков и т.п.</li></a>
+                                    <a href="" class="sub-menu-item"><li>Зеркала</li></a>
+                                    <a href="" class="sub-menu-item"><li>Знаки аварийной остановки</li></a>
+                                    <a href="" class="sub-menu-item"><li>Коврики на панель приборов</li></a>
+                                    <a href="" class="sub-menu-item"><li>Коврики напольные</li></a>
+                                    <a href="" class="sub-menu-item"><li>Крышки бензобака</li></a>
+                                    <a href="" class="sub-menu-item"><li>Молдинги бампера</li></a>
+                                    <a href="" class="sub-menu-item"><li>Накладки декоративные</li></a>
+                                    <a href="" class="sub-menu-item"><li>Накладки на педали</li></a>
+                                    <a href="" class="sub-menu-item"><li>Наклейки автомобильные</li></a>
+                                    <a href="" class="sub-menu-item"><li>Насадки на глушитель</li></a>
+                                    <a href="" class="sub-menu-item"><li>Оплетки руля</li></a>
+                                </ul>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>',
         ),
         'policies' => 
         array (

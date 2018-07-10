@@ -6,6 +6,9 @@
   array (
     'glavnaya.html' => 1,
     'o-kompanii.html' => 2,
+    'novosti.html' => 3,
+    'klientam.html' => 4,
+    'kontaktyi.html' => 5,
   ),
   'resourceMap' => 
   array (
@@ -13,6 +16,9 @@
     array (
       0 => 1,
       1 => 2,
+      2 => 3,
+      3 => 4,
+      4 => 5,
     ),
   ),
   'webLinkMap' => 

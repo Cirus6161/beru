@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.31, created on 2018-07-06 13:16:13
+/* Smarty version 3.1.31, created on 2018-07-10 13:31:51
   from "C:\OSPanel\domains\beru\manager\templates\default\element\template\update.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_5b3f416d701269_90944053',
+  'unifunc' => 'content_5b448b17b1d5a9_97442178',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5b3f416d701269_90944053 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5b448b17b1d5a9_97442178 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div id="modx-panel-template-div"></div>
 <?php echo $_smarty_tpl->tpl_vars['onTempFormPrerender']->value;

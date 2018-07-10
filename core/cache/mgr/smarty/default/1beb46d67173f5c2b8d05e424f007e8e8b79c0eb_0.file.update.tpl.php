@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.31, created on 2018-07-06 13:16:06
+/* Smarty version 3.1.31, created on 2018-07-10 13:32:41
   from "C:\OSPanel\domains\beru\manager\templates\default\resource\update.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_5b3f4166dbc927_77848014',
+  'unifunc' => 'content_5b448b4964e746_19006886',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5b3f4166dbc927_77848014 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5b448b4964e746_19006886 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div id="modx-panel-resource-div"></div>
 <div id="modx-resource-tvs-div"><?php echo (($tmp = @$_smarty_tpl->tpl_vars['tvOutput']->value)===null||$tmp==='' ? '' : $tmp);?>
