@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.31, created on 2018-07-10 13:32:40
+/* Smarty version 3.1.31, created on 2018-07-10 15:48:02
   from "C:\OSPanel\domains\beru\manager\templates\default\resource\sections\tvs.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_5b448b48c6f338_77221685',
+  'unifunc' => 'content_5b44ab02134ea5_59404595',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5b448b48c6f338_77221685 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5b44ab02134ea5_59404595 (Smarty_Internal_Template $_smarty_tpl) {
 if (!is_callable('smarty_function_cycle')) require_once 'C:\\OSPanel\\domains\\beru\\core\\model\\smarty\\plugins\\function.cycle.php';
 echo $_smarty_tpl->tpl_vars['OnResourceTVFormPrerender']->value;?>
 

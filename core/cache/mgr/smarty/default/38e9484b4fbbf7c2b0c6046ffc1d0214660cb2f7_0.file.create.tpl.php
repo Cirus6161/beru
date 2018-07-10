@@ -1,17 +1,17 @@
 <?php
-/* Smarty version 3.1.31, created on 2018-07-10 15:48:02
-  from "C:\OSPanel\domains\beru\manager\templates\default\resource\update.tpl" */
+/* Smarty version 3.1.31, created on 2018-07-10 15:59:17
+  from "C:\OSPanel\domains\beru\manager\templates\default\resource\create.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_5b44ab02f0dd73_41594498',
+  'unifunc' => 'content_5b44ada5dae0f8_80301564',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
-    '1beb46d67173f5c2b8d05e424f007e8e8b79c0eb' => 
+    '38e9484b4fbbf7c2b0c6046ffc1d0214660cb2f7' => 
     array (
-      0 => 'C:\\OSPanel\\domains\\beru\\manager\\templates\\default\\resource\\update.tpl',
+      0 => 'C:\\OSPanel\\domains\\beru\\manager\\templates\\default\\resource\\create.tpl',
       1 => 1528367576,
       2 => 'file',
     ),
@@ -20,10 +20,10 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5b44ab02f0dd73_41594498 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5b44ada5dae0f8_80301564 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div id="modx-panel-resource-div"></div>
-<div id="modx-resource-tvs-div"><?php echo (($tmp = @$_smarty_tpl->tpl_vars['tvOutput']->value)===null||$tmp==='' ? '' : $tmp);?>
+<div id="modx-resource-tvs-div" class="modx-resource-tab x-form-label-left x-panel"><?php echo (($tmp = @$_smarty_tpl->tpl_vars['tvOutput']->value)===null||$tmp==='' ? '' : $tmp);?>
 </div>
 <?php
 $_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['hidden']->value, 'tv', false, NULL, 'tv', array (

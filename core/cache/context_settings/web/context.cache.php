@@ -5,10 +5,14 @@
   'aliasMap' => 
   array (
     'glavnaya.html' => 1,
-    'o-kompanii.html' => 2,
+    'o-kompanii/' => 2,
     'novosti.html' => 3,
     'klientam.html' => 4,
     'kontaktyi.html' => 5,
+    'nasha-missiya-i.html' => 6,
+    'princzipi-robotyi.html' => 7,
+    'geografiya-predstavitelstv.html' => 8,
+    'posleprodazhnaya-podderzhka.html' => 9,
   ),
   'resourceMap' => 
   array (
@@ -19,6 +23,13 @@
       2 => 3,
       3 => 4,
       4 => 5,
+    ),
+    2 => 
+    array (
+      0 => 6,
+      1 => 7,
+      2 => 8,
+      3 => 9,
     ),
   ),
   'webLinkMap' => 

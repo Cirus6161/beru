@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.31, created on 2018-07-10 13:32:40
+/* Smarty version 3.1.31, created on 2018-07-10 15:59:17
   from "C:\OSPanel\domains\beru\core\components\migx\templates\mgr\grids\migx.grid.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_5b448b483a6c97_00442723',
+  'unifunc' => 'content_5b44ada539d335_15286965',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5b448b483a6c97_00442723 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5b44ada539d335_15286965 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 
 MODx.grid.multiTVgrid<?php echo $_smarty_tpl->tpl_vars['tv']->value->id;?>

@@ -186,7 +186,7 @@
                     <div class="row flex-container">
                         <ul>
                             <li><a href="index.html">Главная</a></li>
-                            <li><a href="o-kompanii.html">О компании</a></li>
+                            <li><a href="o-kompanii/">О компании</a></li>
                             <li><a href="" id="catalog-list">Каталог</a></li>
                             <li><a href="" id="brands-list">Бренды</a></li>
                             <li><a href="news.html">Новости</a></li>
@@ -229,7 +229,7 @@
                             </svg>Авторизация</a>
                     </li>
                     <li><a href="index.html">Главная</a></li>
-                    <li><a href="o-kompanii.html">О компании</a></li>
+                    <li><a href="o-kompanii/">О компании</a></li>
                     <li><a href="" id="catalog-list">Каталог</a>
                         <ul>
                             <a href="" id="news-cat"><li>Новинки <span></span></li></a>
@@ -637,7 +637,7 @@
 <!--/SCRIPTS-->
 </body>
 </html>',
-    '_isForward' => false,
+    '_isForward' => true,
   ),
   'contentType' => 
   array (
@@ -720,7 +720,7 @@
                     <div class="row flex-container">
                         <ul>
                             <li><a href="index.html">Главная</a></li>
-                            <li><a href="o-kompanii.html">О компании</a></li>
+                            <li><a href="o-kompanii/">О компании</a></li>
                             <li><a href="" id="catalog-list">Каталог</a></li>
                             <li><a href="" id="brands-list">Бренды</a></li>
                             <li><a href="news.html">Новости</a></li>
@@ -763,7 +763,7 @@
                             </svg>Авторизация</a>
                     </li>
                     <li><a href="index.html">Главная</a></li>
-                    <li><a href="o-kompanii.html">О компании</a></li>
+                    <li><a href="o-kompanii/">О компании</a></li>
                     <li><a href="" id="catalog-list">Каталог</a>
                         <ul>
                             <a href="" id="news-cat"><li>Новинки <span></span></li></a>

@@ -1,3 +1,3 @@
-[2018-07-10 13:32:42] (ERROR @ C:\OSPanel\domains\beru\core\model\phpthumb\modphpthumb.class.php : 121) phpThumb was unable to generate a thumbnail for: C:\OSPanel\domains\beru\core\cache\phpthumb\beru__src056dd569c3bfb593fadf49739fcd286f_par0ba78bb0326502335f8683fdf331013a_dat1530000229.jpeg
-[2018-07-10 13:32:42] (ERROR @ C:\OSPanel\domains\beru\core\model\phpthumb\modphpthumb.class.php : 133) Error outputting thumbnail:
-OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2018-07-10 15:48:39] (ERROR @ C:\OSPanel\domains\beru\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/clientconfig/default
+[2018-07-10 15:48:50] (ERROR @ C:\OSPanel\domains\beru\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/clientconfig/default
+[2018-07-10 16:09:31] (ERROR @ C:\OSPanel\domains\beru\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
